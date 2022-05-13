@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for stopping by! 👋
 
 <!--
 **Michaelafuller/Michaelafuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <tr>
     <td style="width:50%">
       <ul>
+        <li> <b>Currently Seeking a Career in:</b> FinTech, NGOs, Game Development, Full Stack Development, Internship, etc</li>
         <li> <b>Active Personal Projects: </b></li>
             <ul>
               <li><a href="https://github.com/Michaelafuller/evolvingDesigns">Evolving Designs</a></li>
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
                   <li>Optional login / registration with shopping cart functionality</li>
                 </ul>
             </ul>
-        <li> <b>Currently Seeking a Career in:</b> FinTech, NGOs, Game Development, Full Stack Development, Internship, etc</li>
         <li> <b>Hobbies:</b>
           <ul>
             <li> Games </li>
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
       <img src="https://media.giphy.com/media/5JkzdmXAPVWH9FzW95/giphy.gif" alt="React Native Lemonade Stand application"/>
       <img src="https://media.giphy.com/media/nKNYugt4VkkZTUJl9p/giphy.gif" alt="C Sharp project ATM with currency converter"/>
     </td>
+</table>
