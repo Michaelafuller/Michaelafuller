@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td style="width:50%">
+      <h2>About me:</h2>
       <ul>
         <li> <b>Currently Seeking a Career in:</b> FinTech, NGOs, Game Development, Full Stack Development, Internship, etc</li>
         <li> <b>Active Personal Projects: </b></li>
