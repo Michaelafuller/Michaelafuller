@@ -35,7 +35,7 @@ Here are some ideas to get you started:
             <li> Music </li>
           </ul>
         </li>
-        <li><b>Please reach out to me!</b> Hit me up with an email or direct message! </li>
+        <li><b>Please reach out to me!</b></li>
         <li> <a href="https://docs.google.com/document/d/1eLCsvruP_TXZuRNwgn20ZBrd5JhL4gSg/edit?usp=sharing&ouid=113529907563271376258&rtpof=true&sd=true"> My Resume </a> </li>
     </td>
     <td style="width:50%">
