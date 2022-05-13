@@ -47,16 +47,64 @@ Here are some ideas to get you started:
       <img src="./assets/img/Node.svg" alt="node javascript logo" height=64px/>
       <img src="./assets/img/Python.svg" alt="Python logo" height=64px/>
       <img src="./assets/img/React.svg" alt="React.js logo" height=64px/>
-      <img src="./assets/img/MYSQL.png" alt="c sharp logo" height=64px/>
+      <img src="./assets/img/MYSQL.png" alt="MY S Q L logo" height=64px/>
+      <h2>Learning Technologies</h2>
+      <img src="./assets/img/java.jpg" alt="java logo" height=64px/>
+      <img src="./assets/img/spring.png" alt="spring logo" height=64px/>
     </td>
   </tr>
 </table>
+<hr>
+<h2>
+  Crochet Amigurumi Without a Pattern | <a href="https://github.com/Michaelafuller/crochet_project" alt="python crochet project">Repo</a> | <a href="http://ec2-18-233-169-51.compute-1.amazonaws.com/" alt="live website">Site</a>
+<h2>
 <table>
-  <td style="width:50%">
-    <tr>
-        <img src="https://media.giphy.com/media/ih0g9PTbtgdYVYzsVJ/giphy.gif" alt="Python Crochet project drawing tool"/>
+  <tr>
+    <td style="width:50%">
+      <ul>
+        <li>Python with embedded React.js drawing tool</li>
+        <li>Login / Registration with hashed passwords and validations</li>
+        <li>Async message board with new thread creation / comments </li>
+      </ul>
+    </td>
+    <td style="width:50%">
         <img src="https://media.giphy.com/media/5JkzdmXAPVWH9FzW95/giphy.gif" alt="React Native Lemonade Stand application"/>
+    </td>
+  </tr>
+</table>
+<h2>
+  LemonMade | <a href="https://github.com/Michaelafuller/LemonMade" alt="git hub repository">Repo</a> | <a href="https://expo.dev/@michaelafuller/LemonMade" alt ="site requires expo installed on mobile device">Site</a>
+<h2>
+<table>
+  <tr>
+    <td style="width:50%">
+      <img src="https://media.giphy.com/media/ih0g9PTbtgdYVYzsVJ/giphy.gif" alt="Python Crochet project drawing tool"/>
+    </td>
+    <td style="width:50%">
+      <ul>
+        <li>React Native with responsive sizing to fit most devices</li>
+        <li>Fireworks and countdown animations for flavor</li>
+        <li>MongoDB for data persistence</li>
+        <li>API implementation for DB access and a Weather API</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<h2>
+  GlobalATM | <a href="https://github.com/Michaelafuller/GlobalATM-new" alt="git hub repository">Repo</a>
+</h2>
+<table>
+  <tr>
+    <td style="width:50%">
+      <ul>
+        <li>C# ATM project with class inheritance (Accounts -- Savings vs. Checking)</li>
+        <li>Login / Registration with hashed passwords and validations</li>
+        <li>Security Questions mapped to account for lost / stolen card account recovery</li>
+        <li>Currency Exchange API for rapid exchange rates / conversions</li>
+      </ul>
+    </td>
+    <td style="width:50%">
         <img src="https://media.giphy.com/media/nKNYugt4VkkZTUJl9p/giphy.gif" alt="C Sharp project ATM with currency converter"/>
-    </tr>
-  </td> 
+    </td>
+  </tr>
 </table>
