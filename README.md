@@ -39,9 +39,17 @@ Here are some ideas to get you started:
         <li> <a href="https://docs.google.com/document/d/1eLCsvruP_TXZuRNwgn20ZBrd5JhL4gSg/edit?usp=sharing&ouid=113529907563271376258&rtpof=true&sd=true"> My Resume </a> </li>
     </td>
     <td style="width:50%">
-      <img src="https://media.giphy.com/media/ih0g9PTbtgdYVYzsVJ/giphy.gif" alt="Python Crochet project drawing tool"/>
-      <img src="https://media.giphy.com/media/5JkzdmXAPVWH9FzW95/giphy.gif" alt="React Native Lemonade Stand application"/>
-      <img src="https://media.giphy.com/media/nKNYugt4VkkZTUJl9p/giphy.gif" alt="C Sharp project ATM with currency converter"/>
+      <img src="./assets/img/CSharp.svg" alt="c sharp logo" height=64px/>
     </td>
+  </tr>
 </table>
-<img src="./assets/img/CSharp.svg" alt="c sharp logo" height=64px/>
+<table>
+  <td style="width:50%">
+    <tr>
+        <img src="https://media.giphy.com/media/ih0g9PTbtgdYVYzsVJ/giphy.gif" alt="Python Crochet project drawing tool"/>
+        <img src="https://media.giphy.com/media/5JkzdmXAPVWH9FzW95/giphy.gif" alt="React Native Lemonade Stand application"/>
+        <img src="https://media.giphy.com/media/nKNYugt4VkkZTUJl9p/giphy.gif" alt="C Sharp project ATM with currency converter"/>
+    </tr>
+  </td> 
+</table>
+
