@@ -44,3 +44,4 @@ Here are some ideas to get you started:
       <img src="https://media.giphy.com/media/nKNYugt4VkkZTUJl9p/giphy.gif" alt="C Sharp project ATM with currency converter"/>
     </td>
 </table>
+<img src="./assets/img/CSharp.svg" alt="c sharp logo" />
