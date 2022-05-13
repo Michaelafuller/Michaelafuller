@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   <tr>
     <td style="width:50%">
       <ul>
-        <li> <b>Michael Fuller</li>
         <li> <b>Active Personal Projects: </b></li>
             <ul>
               <li><a href="https://github.com/Michaelafuller/evolvingDesigns">Evolving Designs</a></li>
@@ -40,5 +39,6 @@ Here are some ideas to get you started:
         <li> <a href="https://docs.google.com/document/d/1eLCsvruP_TXZuRNwgn20ZBrd5JhL4gSg/edit?usp=sharing&ouid=113529907563271376258&rtpof=true&sd=true"> My Resume </a> </li>
     </td>
     <td style="width:50%">
-      <img src="https://media.giphy.com/media/ih0g9PTbtgdYVYzsVJ/giphy.gif" alt="Python Crochet project drawing tool">
+      <img src="https://media.giphy.com/media/ih0g9PTbtgdYVYzsVJ/giphy.gif" alt="Python Crochet project drawing tool"/>
+      <img src="https://media.giphy.com/media/5JkzdmXAPVWH9FzW95/giphy.gif" alt="React Native Lemonade Stand application"/>
     </td>
