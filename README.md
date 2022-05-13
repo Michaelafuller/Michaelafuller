@@ -41,6 +41,13 @@ Here are some ideas to get you started:
     <td style="width:50%">
       <h2>Proficient Technologies</h2>
       <img src="./assets/img/CSharp.svg" alt="c sharp logo" height=64px/>
+      <img src="./assets/img/Github.svg" alt="git hub logo" height=64px/>
+      <img src="./assets/img/HTML.svg" alt="h t m l logo" height=64px/>
+      <img src="./assets/img/Mongo.svg" alt="mongo d b logo" height=64px/>
+      <img src="./assets/img/Node.svg" alt="node javascript logo" height=64px/>
+      <img src="./assets/img/Python.svg" alt="Python logo" height=64px/>
+      <img src="./assets/img/React.svg" alt="React.js logo" height=64px/>
+      <img src="./assets/img/MYSQL.png" alt="c sharp logo" height=64px/>
     </td>
   </tr>
 </table>
@@ -53,4 +60,3 @@ Here are some ideas to get you started:
     </tr>
   </td> 
 </table>
-
