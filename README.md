@@ -68,7 +68,7 @@ Here are some ideas to get you started:
       </ul>
     </td>
     <td style="width:50%">
-        <img src="https://media.giphy.com/media/5JkzdmXAPVWH9FzW95/giphy.gif" alt="React Native Lemonade Stand application"/>
+      <img src="https://media.giphy.com/media/ih0g9PTbtgdYVYzsVJ/giphy.gif" alt="Python Crochet project drawing tool"/>
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td style="width:50%">
-      <img src="https://media.giphy.com/media/ih0g9PTbtgdYVYzsVJ/giphy.gif" alt="Python Crochet project drawing tool"/>
+      <img src="https://media.giphy.com/media/5JkzdmXAPVWH9FzW95/giphy.gif" alt="React Native Lemonade Stand application"/>
     </td>
     <td style="width:50%">
       <ul>
