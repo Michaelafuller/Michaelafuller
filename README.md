@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <hr>
 <h2>
   Crochet Amigurumi Without a Pattern | <a href="https://github.com/Michaelafuller/crochet_project" alt="python crochet project">Repo</a> | <a href="http://ec2-18-233-169-51.compute-1.amazonaws.com/" alt="live website">Site</a>
-<h2>
+</h2>
 <table>
   <tr>
     <td style="width:50%">
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </table>
 <h2>
   LemonMade | <a href="https://github.com/Michaelafuller/LemonMade" alt="git hub repository">Repo</a> | <a href="https://expo.dev/@michaelafuller/LemonMade" alt ="site requires expo installed on mobile device">Site</a>
-<h2>
+</h2>
 <table>
   <tr>
     <td style="width:50%">
